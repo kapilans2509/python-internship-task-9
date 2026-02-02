@@ -7,5 +7,5 @@
 - error.log
 
 ### Screenshot Output
-![Task 9 Output](output.png)
+(output.png)
 # python-internship-task-9
